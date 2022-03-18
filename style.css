@@ -1,0 +1,348 @@
+.main_div{
+    height: 100%;
+    width: 100%;
+margin-top: 0cm;
+}
+#header_div{
+    width: 100%;
+    font-family: sans-serif;
+    height: 79px ;
+    background-color: #000000;
+    display: flex;
+    margin-bottom: 0%;
+}
+#left_head{
+    margin-top: 0;
+    padding-top: 10px;
+    margin-left: 0;
+    font-size: 10px;
+    
+    width: 50%;
+    height: 53px;
+    color: #ffffff;
+     
+}
+#heading_tag{
+color: #ffffff;
+font-family: sans-serif;
+width: 20px;
+height: 25px;
+}
+
+#image_tag{
+color:#ffffff;
+   width:33px ;
+   height: 33px;
+}
+   
+
+.heading {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    height: 100%;
+    padding-left: 7rem;
+    font-family: sans-serif;
+}
+#right_head{
+float: right;
+width: 50%;
+height: 53px;
+margin-top: 10px;
+}
+
+      
+
+#menuHead{
+    display: flex;
+    margin-top: 0;
+}
+
+#menuHead ul{
+    display: flex;
+    gap: 1rem;
+}
+
+li {
+    list-style-type: none !important;
+}
+#ulTags {
+    display: flex;
+    gap: 2rem;
+    color: #ffffff;
+}
+#login{
+color:#d9dadc;
+}
+.menu_li{
+    text-shadow: rgb(92, 177, 92);
+}
+
+#container{
+width: 100%;
+height:441px;
+background-color: rgb(253 186 206);
+
+
+}
+#main_container{
+    width: 100%;
+    height: 100%;
+    
+  
+
+}
+
+
+#container_para{
+text-align: center;
+ font-size: 64px;
+ font-weight: 600;
+ color: #e11c1c;
+ font-family: 'Heebo', sans-serif;
+ margin-top:0;
+ position:absolute;
+ top:15%;
+ left:20%;
+}
+#terms_para{
+    position: absolute;
+    top: 62%;
+    left: 25%;
+    color: #c02222;
+}
+#button{
+    align-items: center;
+    width: 183px;
+    height: 50px;
+    font-weight: 300;
+    background-color: #c02222;
+    border-color: #c33b23;
+    color: #ffffff;
+    
+    
+  border-radius: 50px 64px 61px 46px;
+  margin: 0;
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+#middile-div{
+width: 100%;
+height: 441px;
+}
+#middile{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(71, 71, 206);
+
+
+}
+#midile_head{
+    font-size :113px;
+    margin-top: 0;
+    position:absolute;
+    top: -14%;
+    left: 16%;
+    color: rgb(30 215 96);
+}
+#midile_para{
+    color: rgb(45 243 45);
+    margin-top: 0;
+    position: absolute;
+    top: 135%;
+    left: 11%;
+}
+#image_div{
+    width: 100%;
+    height: 100%;
+}
+#image_every{
+    width: 669px;
+    height: 122px;
+    position: absolute;
+    top: 103%;
+    left: 16%;
+    background-color: #2941ab;
+}
+#image_every2{
+    background-color: #2941ab;
+    width: 562px;
+    height: 245px;
+    position: absolute;
+    top: 120%;
+    left: 36%;
+}
+#middil_button{
+    background-color: #1ed760;
+    width: 143px;
+    height: 45px;
+    position: absolute;
+    top: 100%;
+    left: 30%;
+    border-bottom-left-radius: 39px;
+    border-bottom-right-radius: 43px;
+    border-top-left-radius: 42px;
+    border-top-right-radius: 53px;
+    color: #2941ab;
+}
+#everythink{
+    position: absolute;
+    top: -28%;
+    left: 20%;
+    font-size: 110px;
+    color: #1ed760;
+
+    
+}
+#footerDiv{
+width: 1332px;
+height: 100%;
+background-color: #c73333;
+
+}
+#footer_left{
+    width: 21rem;
+    height: 29rem;
+    background-color: #000000;
+}
+#spotify_icon{
+    width: 179px;
+    height: 56px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top:185%;
+    left: 165px;
+}
+#iconOnly{
+    width: 44px;
+    height: 37px;
+    background-color: #000000;
+    position: absolute;
+    top: 19%;
+    left: 15px;
+
+}
+#imag_footer{
+    width: 38px;
+    height: 36px;
+}
+#spotify_iconName{
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 19%;
+    left: 15px;
+}
+#spotify_footpara{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: aliceblue;
+    position:absolute;
+    top: -14%;
+    left: 50px
+
+
+}
+#footer_center{
+   
+    
+    position: absolute;
+    top: 1167px;
+    left: 344px;
+    color: #ffffff;
+    background-color: #000000;
+    width: 432px;
+    height: 266px;
+    align-items: center;
+
+}
+#table_footer{
+    align-items: center;
+    border-spacing: 10px;
+    font-family: sans-serif;
+}
+.table_head{
+    font-size: 10px;
+    color: rgb(197, 193, 193);
+}
+#footer_right{
+    width: 564px;
+    height: 266px;
+    background-color: black;
+    position: absolute;
+    top: 1167px;
+    left: 776px;
+}
+#image_instagram{
+    width: 20px;
+    height: 29px;
+
+}
+#Icones1{
+    width: 27px;
+    height: 22px;
+    background-color: rgb(128, 126, 126);
+    position: absolute;
+    top: 20%;
+    left: 22%;
+}
+#Icones2{
+    width: 27px;
+    height: 22px;
+    background-color: rgb(128, 126, 126);
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+#Icones3{
+    width: 27px;
+    height: 22px;
+    background-color: rgb(128, 126, 126);
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+#Icones11{
+    position: absolute;
+    top: 62px;
+    left: 110px;
+    background-color: #ffffff;
+
+}
+#Icones12{
+    position: absolute;
+    top: 63px;
+    left: 167px;
+    background-color: #ffffff;
+}
+#Icones13{
+    position: absolute;
+    top: 63px;
+    left:232px;
+    background-color: #ffffff;
+}
+#footer_footer{
+    width:100%;
+    height: 100px;
+    background-color: #000000;
+}
+#footer_footerleft{
+    display: flex;
+    background-color: #000000;
+}
+#footer_ulDiv{
+    display: flex;
+   gap: 2rem;
+   color: #ffffff;
+   background-color: #000000;
+   margin-left: 139px;
+   font-family: sans-serif;
+
+
+}
+
+
+ 
